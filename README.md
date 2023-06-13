@@ -15,7 +15,7 @@ You’ll also gain experience in an essential data science skill — exploratory
 9. Plotting with color!
 10. What next?
 
-### Project Task 2
+### Project Tasks 2
 Data visualization is often a great way to start exploring your data and uncovering insights. In this notebook, you will initiate this process by creating an informative plot of the episode data provided to you. In doing so, you're going to work on several different variables, including the episode number, the viewership, the fan rating, and guest appearances. Here are the requirements needed to pass this project:
 
 1. Create a `matplotlib` scatter plot of the data that contains the following attributes:
@@ -55,12 +55,42 @@ An important part of business is planning for the future and ensuring that the b
 
 Like many business problems, the data we'll explore is contained in several different datasets. In order to understand the world's oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
 
-### Project Task
+### Project Tasks
 1. The oldest businesses in the world
 2. The oldest businesses in North America
-3. THe oldest business on each continent
+3. The oldest business on each continent
 4. Unknown oldest businesses
 5. Adding new oldest business data
 6. The oldest industries
 7. Restarurant representation
 8. Categries and continents
+
+
+
+## Project 3: The Android App Market on Google Play
+### Project Description
+Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll look for insights in the data to devise strategies to drive growth and retention. The data for this project was scraped from the Google Play website. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former. The data files are as follows:
+
+* `apps.csv`: contains all the details of the apps on Google Play. These are the features that describe an app.
+* `user_reviews.csv`: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score.
+
+### Project Tasks 1
+1. Google Play Store apps and reviews
+2. Data cleaning
+3. Correcting data types
+4. Exploring app categories
+5. Distribution of app ratings
+6. Size and price of an app
+7. Relation between app ategory and app price
+8. Filter out "junk" apps
+9. Popularity of paid apps vs free apps
+10. Sentiment analysis of user reviews
+
+### Project Tasks 2
+Data visualization is often a great way to start exploring your data and uncovering insights. In this notebook, you will initiate this process by creating an informative plot of the episode data provided to you. In doing so, you're going to work on several different variables, including the episode number, the viewership, the fan rating, and guest appearances. Here are the requirements needed to pass this project:
+
+1. Create a `matplotlib` scatter plot of the data that contains the following attributes:
+
+* Each episode's episode number plotted along the x-axis
+* Each episode's viewership (in millions) plotted along the y-axis
+* A colo
