@@ -118,7 +118,8 @@ The dataset used in this project is from The Nobel Foundation on Kaggle.
 7. Repeat laureates
 8. How old are you when you get the prize?
 9. Age differences between prize categories
-10. 
+10. Oldest and youngest winners
+11. You get a prize!
 
 
 
