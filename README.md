@@ -47,3 +47,20 @@ In addition, if you want to be able to see a larger version of your plot, you ca
 Although it was not taught in Intermediate Python, a useful skill for visualizing different data points is to use a different marker. You can learn more about them via the Matplotlib documentation or via our course Introduction to Data Visualization with Matplotlib. Thus, as a bonus step, try to differentiate guest appearances not just with size, but also with a star!
 
 All other attributes still apply (data on the axes, color scheme, sizes for guest appearances, title, and axis labels).
+
+
+## Project 2: What and Where are the World's Oldest Business
+### Project Description
+An important part of business is planning for the future and ensuring that the business survives changing market conditions. Some businesses do this remarkably well and last for hundreds of years. In this project, you'll explore data from BusinessFinancing.co.uk on the world's oldest businesses: when were they founded, and which industries do they belong to?
+
+Like many business problems, the data we'll explore is contained in several different datasets. In order to understand the world's oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
+
+### Project Task
+1. The oldest businesses in the world
+2. The oldest businesses in North America
+3. THe oldest business on each continent
+4. Unknown oldest businesses
+5. Adding new oldest business data
+6. The oldest industries
+7. Restarurant representation
+8. Categries and continents
